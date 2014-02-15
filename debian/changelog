@@ -1,3 +1,9 @@
+linux-3.3 (3.3.8-1+vyos1+helium1) unstable; urgency=low
+
+  * New branch
+
+ -- Daniil Baturin <daniil@baturin.org>  Sat, 15 Feb 2014 15:13:15 +0100
+
 linux-3.3 (3.3.8-1+vyatta+14+hydrogen1) unstable; urgency=low
 
   * New branch
